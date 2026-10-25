@@ -1,0 +1,8 @@
+{
+  "name": "loaded-skills-indicator",
+  "label": "Loaded Skills Indicator",
+  "description": "Backend router for the Loaded Skills Indicator desktop status-bar plugin: reads the durable transcript and reports which skills are still fully in context.",
+  "version": "1.0.0",
+  "tab": { "hidden": true },
+  "api": "plugin_api.py"
+}
